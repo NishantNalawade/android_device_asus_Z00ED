@@ -1,6 +1,6 @@
 [  
    {
-     "repository": "TeamHorizon/android_kernel_asus_msm8916",
+     "repository": "kernel-hut/android_kernel_asus_msm8916",
      "target_path": "kernel/asus/msm8916",
      "branch": "cm-14.1"
    },
