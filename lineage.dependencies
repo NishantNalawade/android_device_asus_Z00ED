@@ -2,16 +2,16 @@
    {
      "repository": "TeamHorizon/android_kernel_asus_msm8916",
      "target_path": "kernel/asus/msm8916",
-     "branch": "n"
+     "branch": "cm-14.1"
    },
    {
-     "repository": "TeamHorizon/android_device_asus_qcom_common",
+     "repository": "audahadi/android_device_asus_qcom_common",
      "target_path": "device/asus/msm8916-common",
-     "branch": "n"
+     "branch": "cm-14.1"
    },
-     "repository": "TeamHorizon/android_vendor_asus",
+     "repository": "audahadi/android_vendor_asus",
      "target_path": "vendor/asus",
-     "branch": "n"
+     "branch": "cm-14.1"
    },
    {
       "repository": "LineageOS/android_packages_apps_FlipFlap",
